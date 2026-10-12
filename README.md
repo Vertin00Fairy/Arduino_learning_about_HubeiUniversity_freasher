@@ -1,0 +1,2 @@
+# Arduino_learning_about_HubeiUniversity_freasher
+这是关于我大一开始自学Arduino的一个记录
