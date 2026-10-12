@@ -1,2 +1,3 @@
 # Arduino_learning_about_HubeiUniversity_freasher
 这是关于我大一开始自学Arduino的一个记录
+  我是通过ai了解到arduino,现在正在观看太极创客的B站视频学习
